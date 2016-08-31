@@ -1,0 +1,28 @@
+ul {
+  margin-top: 10px;
+}
+
+.my-logo {
+  height: 40px;
+}
+
+.page-header {
+  margin-top: 10px;
+}
+
+.cust-blue {
+  background-color: #669999;
+}
+
+.cust-red {
+  background-color: #996666;
+}
+
+.cust-label {
+  padding-top: 45%;
+}
+
+.my-img {
+  height: 200px;
+  width: 200px;
+}
